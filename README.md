@@ -1,5 +1,5 @@
 # Reigen's Birthday Special download
-A fan-made pixel RPG game dedicated to Reigen Arataka.
+A fan-made pixel RPG dedicated to Reigen Arataka.
 
 Language: English
 
