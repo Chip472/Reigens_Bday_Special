@@ -1,4 +1,4 @@
-# Reigen_Birthdays-Special-download
+# Reigen's_Birthday-Special-download
 A fan-made game dedicated to Reigen Arataka.
 
 # Description:
